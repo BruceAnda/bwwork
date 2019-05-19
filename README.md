@@ -20,12 +20,8 @@
 # kotlin
 [Kotlin项目实战](https://github.com/BruceAnda/bwwork/tree/master/kotlin)
 
-# creattrainingone
-[大实训一](https://github.com/BruceAnda/bwwork/tree/master/creattrainingone)
+# creattraintion
+[大实训](https://github.com/BruceAnda/bwwork/tree/master/creattraintion)
 
-# creattrainingtwo
-[大实训二](https://github.com/BruceAnda/bwwork/tree/master/creattrainingtwo)
 
-# creattrainingthree
-[大实训三](https://github.com/BruceAnda/bwwork/tree/master/creattrainingthree)
 
